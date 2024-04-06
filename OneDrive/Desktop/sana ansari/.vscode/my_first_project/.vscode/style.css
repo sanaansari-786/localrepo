@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border:border-box;
+}
+.navbar{
+    height:60px;
+    background-color: #0f1111;
+    color:white;
+    display:flex;
+    
+
+}
+.nav-logo{
+    height:50px;
+    width:100px;
+}
+.logo{
+    background-image: url".vscode/Amazon_PNG6.png";
+    background-size: cover;
+    height:50px;
+    width: 100px;
+}
+.add-first{
+    color:#cccccc;
+    font-size:1rem;
+    margin-left:15px;
+
+}
+.add-sec{
+    color:#cccccc;
+    font-size:1rem;
+    margin-left:5px;
+
+}
+.nav-search{
+    display:flex;
+}
